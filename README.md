@@ -1,6 +1,6 @@
 # Hacker Jobs
 
-Welcome to Hacker Jobs, a web development project that aims to simplify the job search process for computer science professionals! This platform allows users to create accounts, log in, and browse job postings tailored specifically for the field of computer science.
+Welcome to Hacker Jobs, a web development project that aims to simplify the job search process for computer science professionals! This platform allows users to create accounts, log in, and browse job postings tailored specifically for the field of computer science. This was created for the Comp 307 course at McGill University.
 
 ## Table of Contents
 
